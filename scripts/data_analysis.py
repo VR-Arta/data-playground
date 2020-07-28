@@ -1,1 +1,4 @@
-import pandas as pd\ndf = pd.read_csv('data.csv')\nprint(df.head())
+import pandas as pd
+
+df = pd.read_csv('data.csv')
+print(df.head())
