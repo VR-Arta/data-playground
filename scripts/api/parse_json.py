@@ -1,1 +1,4 @@
-import json\nusers = json.loads(open('users.json').read())\nprint(len(users))
+import json
+
+users = json.loads(open('users.json').read())
+print(len(users))
