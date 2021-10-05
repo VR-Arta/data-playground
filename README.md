@@ -1,1 +1,1 @@
-# Data Playground\n\nThis project contains SQL and Python scripts for data processing.
+This project contains SQL and Python scripts for working with databases, API data extraction, and ETL pipelines.
