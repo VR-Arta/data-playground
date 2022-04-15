@@ -1,1 +1,1 @@
-SELECT name, age, RANK() OVER (ORDER BY age DESC) AS rank FROM users;
+SELECT department, AVG(salary) FROM employees GROUP BY department;
