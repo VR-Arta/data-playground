@@ -1,8 +1,4 @@
-## Data Playground
+### Testing
 
-This project includes SQL and Python scripts for working with databases, API data extraction, and ETL pipelines.
+To run tests:
 
-### Features
-- SQLite & PostgreSQL integration
-- Automated data pipelines
-- Query optimization
