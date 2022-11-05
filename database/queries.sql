@@ -1,1 +1,1 @@
-SELECT department, AVG(salary) FROM employees GROUP BY department;
+EXPLAIN ANALYZE SELECT * FROM users WHERE age > 30;
